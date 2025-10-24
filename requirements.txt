@@ -6,4 +6,4 @@ langchain_groq
 langchain_openai
 streamlit
 tavily-python
-faiss-cpu==1.7.4
+faiss-cpu==1.10.0
